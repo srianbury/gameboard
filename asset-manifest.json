@@ -1,13 +1,13 @@
 {
   "main.css": "/gameboard/static/css/main.c6052e58.chunk.css",
-  "main.js": "/gameboard/static/js/main.6697bb91.chunk.js",
-  "main.js.map": "/gameboard/static/js/main.6697bb91.chunk.js.map",
+  "main.js": "/gameboard/static/js/main.5834f241.chunk.js",
+  "main.js.map": "/gameboard/static/js/main.5834f241.chunk.js.map",
   "runtime~main.js": "/gameboard/static/js/runtime~main.baafba1d.js",
   "runtime~main.js.map": "/gameboard/static/js/runtime~main.baafba1d.js.map",
   "static/js/2.9ce8b932.chunk.js": "/gameboard/static/js/2.9ce8b932.chunk.js",
   "static/js/2.9ce8b932.chunk.js.map": "/gameboard/static/js/2.9ce8b932.chunk.js.map",
   "index.html": "/gameboard/index.html",
-  "precache-manifest.ddcc1b1f775dbcfa42c6839f1ed5c21f.js": "/gameboard/precache-manifest.ddcc1b1f775dbcfa42c6839f1ed5c21f.js",
+  "precache-manifest.21f223e3c39697f23398e413913f7474.js": "/gameboard/precache-manifest.21f223e3c39697f23398e413913f7474.js",
   "service-worker.js": "/gameboard/service-worker.js",
   "static/css/main.c6052e58.chunk.css.map": "/gameboard/static/css/main.c6052e58.chunk.css.map"
 }
